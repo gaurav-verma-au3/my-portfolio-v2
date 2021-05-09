@@ -9,14 +9,14 @@ class DegreeCard extends Component {
     return (
       <div className="degree-card">
         <Flip left duration={2000}>
-          <div className="card-img">
+          <div className="card-img" style={{overflow:"hidden"}}>
             <img
               style={{
                 maxWidth: "100%",
                 maxHeight: "100%",
                 transform: "scale(50%, 50%)",
               }}
-              src={require(`../../assests/images/${degree.logo_path}`)}
+              src={`${degree.logo_path}`}
               alt={degree.alt_name}
             />
           </div>
