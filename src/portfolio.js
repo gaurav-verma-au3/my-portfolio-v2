@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I was born in Mumbai, raised in Lucknow, I wasn't the brightest star in college, but I am good at learning stuff quickly. When I started learning Web Development I completely got into it, at that moment I found what I have to do. I do the work I do because I love it. I like the industry. I like the people I meet. I like to talk about technologies. I embrace the nerd. I like to make the web a better place. Hopefully we cross paths in the real world someday and we can make it a better place together.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/1F_et3d-E5PQC1Cet-QPZrfwLvov-dK36/view?usp=sharing",
 };
 
 const socialMediaLinks = [
@@ -650,7 +650,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "gaurav-profile.jpg",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, Firebase, NodeJS, Cloud and Opensource Development.",
   },
@@ -666,7 +666,7 @@ const contactPageData = {
     subtitle:
       "532Ka/217Cha, Pandey Tola, Dandahiya Bazar, Aliganj, Lucknow, Uttar Pradesh - 226024",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://maps.app.goo.gl/g1FiiSTHCtQE4mf67",
   },
   phoneSection: {
     title: "Phone Number",
